@@ -1,2 +1,3 @@
 # hello-world
 Learning curve repository
+Brain melted from starting to learn Adapt yesterday but otherwise doing OK with it. Long way from previous days of HTML and blogging... 
